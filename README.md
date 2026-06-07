@@ -14,9 +14,9 @@
 - 🏢 Currently working at **National Agency for Social Protection**
 - 🎓 4+ years of experience in **Frontend Development**
 - 🚀 Built applications serving **100,000+ users**
-- 🎯 Specialized in **Vue.js, Nuxt.js, and SEO optimization**
+- 🎯 Specialized in **React.js, Vue.js**
 - 🌱 Currently learning: **TypeScript, Pinia, and advanced Nuxt 3**
-- 💬 Ask me about: **Vue.js, Nuxt.js, Tailwind CSS, Performance Optimization**
+- 💬 Ask me about: **Vue.js, React.js, Tailwind CSS**
 - 📫 How to reach me: **erkinovdoniyor03@gmail.com**
 
 ---
